@@ -1,7 +1,6 @@
 import os
 import sys
 import pyAesCrypt
-import random
 import keygen
 key = keygen.generate_key()
 cwd=os. getcwd()
