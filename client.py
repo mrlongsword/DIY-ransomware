@@ -1,5 +1,5 @@
 import socket
-IP = "server ip"
+IP = "10.0.2.7" #server ip
 PORT = 1337
 data = "IT WORKS"
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
