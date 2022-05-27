@@ -1,6 +1,7 @@
 # DIY-ransomware
 <p>An attempt at creating ransomware(for research purposes only).<p>
 <p>DO NOT run the pre-built executables in the 'binaries' folder.</p>
+
 ## Dectection
 ### Bypassed all but 3 AV's on virustotal
 <img width="893" alt="image" src="https://user-images.githubusercontent.com/60816759/170679080-0592cb02-fc34-46ce-8295-315d0fad9670.png">
