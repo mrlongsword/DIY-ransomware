@@ -7,9 +7,11 @@
 ## Usage
 ### Build the encryptor using pyinstaller
 ```
-pyinstaller --onefile -w encrypt.py keygen.py
+pyinstaller --onefile -w encryptor.py keygen.py
+# The generated executable can be found in the 'dist' folder.
 ```
 ### On the attacker machine, start the server
 <img width="246" alt="image" src="https://user-images.githubusercontent.com/60816759/170675860-d7e666a0-26aa-4420-9b3d-bd8b28b4dfe4.png">
+
 ### On the victim machine, execute 'encryptor.exe'
 
